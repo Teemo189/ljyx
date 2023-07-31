@@ -1,0 +1,41 @@
+/** css/yourtheme.css **/
+
+/* This line is theme specific - it includes the base theme CSS */
+/*@import '../alabaster.css';  /* for Alabaster */
+
+/*@import 'theme.css';        for the Read the Docs theme */
+@import 'badge_only.css'; 
+@import 'sphinx-book-theme.css';
+
+/*body {
+    background-color:#c0c0c0;
+}
+
+#site-navigation{
+    background-color:#c0c0c0;
+
+}
+#search-input{
+    background-color:#c0c0c0;
+
+}
+#bd-toc-nav{
+    background-color:#c0c0c0;
+
+}
+.header-article {
+    background-color:#c0c0c0;
+
+}
+.headerbtn{
+    background-color:#c0c0c0;
+}*/
+
+#aaa{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
